@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "FaBusinessTime",
+    "title": "Business Consulting",
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at."
+  },
+  {
+    "icon": "TbEyeClosed",
+    "title": "Business Consulting",
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at."
+  },
+  {
+    "icon": "IoSpeedometerOutline",
+    "title": "Business Consulting",
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at."
+  },
+  {
+    "icon": "IoBagCheckSharp",
+    "title": "Business Consulting",
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at."
+  },
+  {
+    "icon": "GrNotes",
+    "title": "Business Consulting",
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at."
+  },
+  {
+    "icon": "TbClick",
+    "title": "Business Consulting",
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/images/firstWoman.jpg",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "author": "Ham Brook",
+    "date": "Jan 18, 2019",
+    "category": "News",
+    "excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "image": "/images/secondWoman.jpg",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "author": "Ham Brook",
+    "date": "Jan 18, 2019",
+    "category": "News",
+    "excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "image": "/images/thirdWoman.jpg",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "author": "Ham Brook",
+    "date": "Jan 18, 2019",
+    "category": "News",
+    "excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.",
+    "link": "#"
+  }
+]

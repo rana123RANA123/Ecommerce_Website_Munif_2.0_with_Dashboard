@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "firstWoman.jpg",
+    "title": "Wild West Hoodie",
+    "rating": 5.0,
+    "likes": 29,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+  },
+  {
+    "id": 2,
+    "image": "secondProduct.jpg",
+    "title": "Wild West Hoodie",
+    "rating": 5.0,
+    "likes": 29,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+  },
+  {
+    "id": 3,
+    "image": "thirdProduct.jpg",
+    "title": "Wild West Hoodie",
+    "rating": 5.0,
+    "likes": 29,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+  },
+  {
+    "id": 4,
+    "image": "fourProduct.jpg",
+    "title": "Wild West Hoodie",
+    "rating": 5.0,
+    "likes": 29,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+  },
+  {
+    "id": 5,
+    "image": "thirdWoman.jpg",
+    "title": "Wild West Hoodie",
+    "rating": 5.0,
+    "likes": 29,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+  },
+  {
+    "id": 6,
+    "image": "secondWoman.jpg",
+    "title": "Wild West Hoodie",
+    "rating": 5.0,
+    "likes": 29,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+  }
+]

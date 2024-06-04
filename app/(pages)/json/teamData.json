@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "image": "/images/firstMan.jpg",
+    "name": "John Rooster",
+    "position": "CO-FOUNDER, PRESIDENT",
+    "description": "Nisi at consequatur unde molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt tenetur.",
+    "social": {
+      "facebook": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "linkedin": "#"
+    }
+  },
+  {
+    "id": 2,
+    "image": "/images/secondMan.jpg",
+    "name": "Tom Sharp",
+    "position": "CO-FOUNDER, COO",
+    "description": "Nisi at consequatur unde molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt tenetur.",
+    "social": {
+      "facebook": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "linkedin": "#"
+    }
+  },
+  {
+    "id": 3,
+    "image": "/images/thirdMan.jpg",
+    "name": "Winston Hodson",
+    "position": "MARKETING",
+    "description": "Nisi at consequatur unde molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt tenetur.",
+    "social": {
+      "facebook": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "linkedin": "#"
+    }
+  }
+]
